@@ -163,6 +163,10 @@ a:hover {
 
 /*-- //Navbar --*/
 
+.img-loc {
+  border: none !important;
+}
+
 /*-- Slider --*/
 
 .slider {
@@ -339,8 +343,7 @@ ul.callbacks_tabs li {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-.projects a:hover,
-.services a:hover {
+.projects a:hover {
   background-color: #1dc8d9;
   color: #fff;
 }
@@ -680,7 +683,7 @@ ul.callbacks_tabs li {
   line-height: 25px;
   padding-right: 30px;
   margin: 15px 0 10px;
-  font-size: 1rem;
+  font-size: 2rem;
   font-weight: 400;
 }
 
@@ -3687,7 +3690,6 @@ textarea {
   }
   .newsletter input[type="submit"] {
     padding: 9px 17px;
-    font-size: 13px;
   }
   .banner h1 {
     top: 40%;
