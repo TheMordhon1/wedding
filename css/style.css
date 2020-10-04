@@ -4135,10 +4135,14 @@ textarea {
     padding: 0;
   }
   .navbar-default .navbar-brand {
-    font-size: 20px;
+    font-size: 15px;
   }
   .navbar-toggle {
     padding: 8px;
+  }
+
+  .btn-jalan {
+    margin-bottom: 1em;
   }
 
   .projects,
