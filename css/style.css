@@ -668,7 +668,7 @@ ul.callbacks_tabs li {
   color: #fff;
 }
 
-.newsletter h4 {
+.newsletter h2 {
   text-align: left;
   font-size: 35px;
   font-weight: 600;
@@ -680,6 +680,8 @@ ul.callbacks_tabs li {
   line-height: 25px;
   padding-right: 30px;
   margin: 15px 0 10px;
+  font-size: 1rem;
+  font-weight: 400;
 }
 
 .newsletter input[type="text"] {
@@ -3835,8 +3837,10 @@ textarea {
     font-weight: 100;
   }
   .newsletter p {
-    margin: 10px 0;
-    font-size: 15px;
+    color: #fff;
+    margin: 15px 0 10px;
+    font-size: 1.2em;
+    font-weight: 200;
   }
   .newsletter input[type="submit"] {
     padding: 9px 15px;
